@@ -1,2 +1,2 @@
 # Marca-Facil
-Um projeto desktop para arenas de futebol ou outros esportes que alugam espaços para a prática dessas atividades.
+Um projeto desktop para arenas que alugam espaços para a prática do futebol ou outros esportes.
